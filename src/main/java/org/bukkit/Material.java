@@ -232,7 +232,7 @@ public enum Material {
     SLIME_BLOCK(165),
     BARRIER(166),
     IRON_TRAP_DOOR(167, TrapDoor.class),
-    PRISMARINE(168),
+    PRISMARINE(168, Prismarine.class),
     SEA_LANTERN(169),
     HAY_BLOCK(170),
     CARPET(171),
